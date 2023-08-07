@@ -21,7 +21,8 @@
 16- cd /home/kali/Desktop/"Jihad Kandil"/Documents/-
 
 17- cd ..
-18- cp -r Documents /home/kali/Desktop/"Jihad Kandil"/
+18- cp -r Documents My_Documents
+19- ls
 
 19- cat .hidden_file 
 20- nano .hidden_file
