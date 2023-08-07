@@ -1,0 +1,47 @@
+1- mkdir "Jihad Kandil" 
+2- cd "Jihad Kandil"
+
+3- mkdir Documents
+4- cd Documents 
+5- touch file1.txt file2.txt file3.txt
+6- ls 
+
+7- cd ..
+8- touch .hidden_file 
+9- ls -a
+
+10- nano file1.txt
+11- ctrl+o and enter and ctrl+x
+12- cat file1.txt
+
+13- cd Documents
+
+14- mkdir -
+15- pwd
+16- cd /home/kali/Desktop/"Jihad Kandil"/Documents/-
+
+17- cd ..
+18- cp -r Documents /home/kali/Desktop/"Jihad Kandil"/
+
+19- cat .hidden_file 
+20- nano .hidden_file
+21- cat .hidden_file
+
+22- cd Documents
+23- mv file1.txt file2.txt /home/kali/Desktop/"Jihad Kandil"/
+24- cd ..
+25- ls 
+
+26- cd 
+27- rm -r "Jihad Kandil"
+
+28- cd 
+29- cd Desktop
+30- rm -r "Jihad Kandil"
+31- ls 
+
+
+
+
+
+
