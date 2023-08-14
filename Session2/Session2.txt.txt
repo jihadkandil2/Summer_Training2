@@ -1,0 +1,35 @@
+#   cd Desktop
+#   cd Updated-Task-02
+#   ls -l   
+#   cat README.txt
+#   ls -all
+#   tar -xvf .level-1.tar
+#   ls -all
+#   cd .level-1
+#   ls -all
+#   cat README.txt
+#   file level-2
+#   cp level-2 level-2.tar
+#   ls -all 
+#   tar -xvf level-2.tar
+#   cd level-2
+#   cd gBT5u0vLT5
+#   ls -all 
+#   file level-3 
+#   bunzip2 level-3
+#   ls -all 
+#   file level-3.out
+#   tar -xf level-3.out
+#   ls -l 
+#   cd level-3
+#   find . -type f -name "*.txt"
+#   cat README.txt
+#   ls -all
+#   cat X6lkChFKsj
+#   find . -type f -size 73c
+#   cd m7lRDpRTUJ
+#   cat xVMvVOKNW5
+
+
+
+
