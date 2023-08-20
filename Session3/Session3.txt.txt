@@ -1,0 +1,45 @@
+# Step #1 :
+# sudo useradd -m OSC
+# sudo passwd OSC 
+# sudo groupadd osc_group
+# sudo usermod -aG osc_group OSC
+# sudo usermod -aG sudo OSC
+# groups OSC
+# su - OSC 
+# zsh
+# whoami 
+-----------------------------------------------------------------
+# Step #2 :
+# mkdir permission_practice 
+# cd permission_practice
+# touch public_file.txt private_file.txt executable_script.sh 
+# ls -l
+# chmod 666 public_file.txt
+# chmod u=rw private_file.txt
+# chmod 750 executable_script.sh
+# ls -l
+-----------------------------------------------------------------
+# Step #3 :
+# sudo chown kali:osc_group private_file.txt
+# ls -l
+-----------------------------------------------------------------
+# Step #4 :
+# sleep 1000 &
+# kill 16041
+# vim 
+# pkill -9 vim 
+# pgrep sleep
+# pgrep vim 
+-----------------------------------------------------------------
+# Step #5 : 
+# sudo apt update 
+# sudo apt install neofetch
+# dpkg --list
+# sudo apt remove neofetch
+-----------------------------------------------------------------
+  
+
+
+
+
+ 
